@@ -38,9 +38,9 @@ const Allpets = () => {
                 <caption className="fonts navy text-center cursive">Pets looking for a good home:</caption>
                 <thead className="table-light">
                     <tr>
-                        <th className="orange" scope="col">Name</th>
-                        <th className="orange" scope="col">Type</th>
-                        <th className="orange" scope="col">Actions</th>
+                        <th className="info" scope="col">Name</th>
+                        <th className="info" scope="col">Type</th>
+                        <th className="info" scope="col">Actions</th>
                     </tr>
                 </thead>
                 <tbody>

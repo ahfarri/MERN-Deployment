@@ -80,7 +80,7 @@ const Editpet = () => {
                 <input className="form-control" type="text" name="skill3" onChange={ (e) => changeHandler(e)  } value={petInfo.skill3}/>
             </div>
             
-            <input className="btn btn-info" type="submit" value="Edit Pet" />
+            <input className="btn btn-primary" type="submit" value="Edit Pet" />
         </form>
         </div>
     );
